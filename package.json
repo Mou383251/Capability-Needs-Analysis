@@ -1,0 +1,24 @@
+{
+  "name": "capability-needs-analysis-system-(cnas)",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "serve -s dist"
+  },
+  "dependencies": {
+    "@google/genai": "latest",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "serve": "^14.2.5",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}

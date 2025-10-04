@@ -1,0 +1,6 @@
+{
+  "name": "Capability Needs Analysis System (CNAS)",
+  "description": "An intelligent assistant that automates, manages, and reports on Learning & Development Plans, Eligible Officers Lists, and Establishment & CNA Checklists for any organization.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

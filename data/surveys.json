@@ -1,0 +1,194 @@
+{
+  "surveys": [
+    {
+      "survey_type": "Provincial Government Administration",
+      "sections": [
+        {
+          "title": "Section A: Strategic Alignment",
+          "questions": [
+            "Rate out of 10 – The organisation has a documented strategic corporate plan linked to PNG Vision 2050 and other macro policies.",
+            "Rate out of 10 – The organisation’s current corporate plan is clear and understood by me.",
+            "Rate out of 10 – I have a clear understanding of the organisation’s priority outcomes and outputs."
+          ]
+        },
+        {
+          "title": "Section B: Operational Effectiveness & Values",
+          "questions": [
+            "The organization has effective legislation, acts, policies, and regulations (General Order, GESI, PSMA etc).",
+            "The organization regularly reviews systems and processes to improve efficiency and effectiveness.",
+            "I know how my work contributes to the organization achieving its corporate goals.",
+            "I know the internal processes and procedures of the organization."
+          ]
+        },
+        {
+          "title": "Section C: Leadership & Development",
+          "questions": [
+            "The organization fosters effective stakeholder engagement.",
+            "There are opportunities for career advancement within the organization.",
+            "The department promotes change and innovation."
+          ]
+        },
+        {
+          "title": "Section D: Performance Management",
+          "questions": [
+            "My performance is measured by what gets done, not how busy I am.",
+            "I participate in performance and development reviews bi-annually.",
+            "The organization assesses staff performance to evaluate efficiency and service delivery."
+          ]
+        },
+        {
+          "title": "Section E: ICT Capability",
+          "questions": [
+            "The organization has a strategic approach to workforce planning.",
+            "The organization has a systematic approach to recording, retaining, and transferring corporate knowledge.",
+            "The organization identifies and develops talent at senior and middle levels."
+          ]
+        },
+        {
+          "title": "Section F: Public Finance Management",
+          "questions": [
+            "The organization has a strategic approach to employee training and development.",
+            "Employee learning aligns with corporate goals and strategies.",
+            "The organization promotes continuous learning and development among employees.",
+            "The organization assists managers in promoting and facilitating employee learning.",
+            "The organization has a comprehensive orientation program for new employees.",
+            "The organization defines goals to measure outcomes of training programs.",
+            "The organization measures the impact of training programs on performance."
+          ]
+        },
+        {
+          "title": "Section G: Communication & Stakeholder Engagement",
+          "questions": [
+            "There is support and cooperation across the organization.",
+            "The organisation is committed to employee learning and development.",
+            "The organization is committed to continuous improvement.",
+            "The organization is committed to employee learning and development.",
+            "I am proud to work for the organization based on its professionalism and integrity.",
+            "The organization has ethical workplace values, cultures, systems, and practices."
+          ]
+        },
+        {
+          "title": "Section H: Training Needs Analysis",
+          "questions": [
+            "Does a process for identifying future training/professional needs exist in your organization? (Yes/No)",
+            "In the last 12–18 months, how well were your identified training needs met? (1–10 scale)",
+            "How are your future training/professional needs assessed? (Tick all that apply)",
+            "Is this process documented or recorded? (Yes/No)",
+            "Rate the effectiveness of the process for identifying training needs. (1–10 scale)",
+            "How confident are you that the current process meets your future training needs and career aspirations? (1–10 scale)",
+            "List any long-term or short-term training/courses you wish to undertake. (Open text)",
+            "Choose cross-cutting topics you are interested in. (Multi-select)",
+            "Expand on your top 3 training priorities. (Open text)"
+          ]
+        }
+      ]
+    },
+    {
+      "survey_type": "Provincial Health Authority Staff Survey",
+      "sections": [
+        {
+          "title": "Personal and Employment Information",
+          "questions": [
+            "Timestamp",
+            "Email Address",
+            "Full Name",
+            "Date of Birth",
+            "Age",
+            "Designation",
+            "Position Grade",
+            "Division/Section",
+            "Employment Status",
+            "Job Qualification",
+            "Years of Experience",
+            "Commencement Date",
+            "Highest Qualification",
+            "Most recent SPA (Staff Performance Appraisal) rating"
+          ]
+        },
+        {
+          "title": "Section A – Strategic Understanding",
+          "questions": [
+            "The organisation has a documented strategic corporate plan that aligns with relevant national health and development plans.",
+            "The organisation’s corporate plan, key result areas (KRAs), mandate, vision, and links to government planning frameworks are clear and understood by me.",
+            "The organisation’s values and beliefs are aligned with national ethics and values-based leadership frameworks.",
+            "I uphold the organisation’s values as indicated in its corporate plan.",
+            "I have a clear understanding of the organisation’s priority result areas.",
+            "I have an individual work plan aligned with the KRAs of my division or branch."
+          ]
+        },
+        {
+          "title": "Section B – Systems and Processes",
+          "questions": [
+            "The organisation has effective legislation, policies, national health standards, and codes of conduct/ethics in place.",
+            "The organisation regularly reviews systems and processes to improve efficiency and effectiveness.",
+            "I know how my work contributes to achieving the organisation’s corporate goals.",
+            "Employees work as part of a team to achieve both individual and team goals.",
+            "I understand the importance of Gender Equality and Social Inclusion (GESI) principles within the organisation.",
+            "I am familiar with the organisation’s internal processes and procedures."
+          ]
+        },
+        {
+          "title": "Section C – Leadership and Opportunities",
+          "questions": [
+            "The organisation fosters collaborative working relationships with other agencies and development partners.",
+            "The organisation develops and implements strategies for promoting women in leadership and coordinates with relevant stakeholders.",
+            "There are opportunities for employees to gain experience in other areas of the organisation to develop leadership skills.",
+            "Employees can work on special projects to enhance their leadership capabilities.",
+            "There are opportunities for career advancement within the organisation.",
+            "Employees are supported to lead with personal drive, commitment, and resilience.",
+            "The organisation provides opportunities for fostering strategic direction.",
+            "The organisation promotes change and innovation.",
+            "The organisation communicates effectively with influence and political awareness.",
+            "The organisation builds collaborative relationships both internally and externally."
+          ]
+        },
+        {
+          "title": "Section D – Performance and Accountability",
+          "questions": [
+            "My performance is measured based on results achieved.",
+            "I clearly understand what is expected of me in my job.",
+            "I have a job description that outlines my functions and expected performance levels.",
+            "I participate in performance and development reviews (SPA meetings) with my supervisor at least twice a year.",
+            "I can work effectively toward organisational goals even under high-pressure conditions.",
+            "I receive regular updates on the organisation’s progress towards its goals."
+          ]
+        },
+        {
+          "title": "Section E – Workforce Planning",
+          "questions": [
+            "The organisation takes a strategic approach to workforce planning.",
+            "If a manager were to leave, a successor could readily step into the role.",
+            "The organisation has systems for recording, retaining, and transferring corporate knowledge.",
+            "The organisation identifies potential talent and develops staff at senior and middle levels."
+          ]
+        },
+        {
+          "title": "Section F – Service Delivery",
+          "questions": [
+            "I am able to record patient visits daily and report this information in a timely manner.",
+            "I strive to provide quality patient service that meets needs promptly within available resources.",
+            "I know who my internal and external clients are.",
+            "I can empathise with patients and clients, responding to their needs appropriately.",
+            "I work effectively with colleagues to deliver quality services to the community."
+          ]
+        },
+        {
+          "title": "Section G – Organisational Culture and Wellbeing",
+          "questions": [
+            "There is a spirit of support and cooperation across the organisation.",
+            "The organisation is committed to continuous improvement.",
+            "All employees participate in a comprehensive induction program upon joining.",
+            "I am proud to work for the organisation due to its professionalism and integrity.",
+            "The organisation has embedded GESI systems and practices.",
+            "The organisation upholds ethical workplace standards, values, cultures, systems, and practices.",
+            "The organisation has work-life balance strategies.",
+            "The organisation has an effective occupational health and safety program."
+          ]
+        }
+      ]
+    }
+  ],
+  "logic": {
+    "onDataImport": "if (source == 'Provincial Government Administration') { applySurveyTemplate('Provincial Government Administration'); } else if (source == 'Provincial Health Authority') { applySurveyTemplate('Provincial Health Authority Staff Survey'); }"
+  }
+}
